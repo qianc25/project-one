@@ -12,26 +12,20 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using ??? data from ??? to better understand:
+For this project, I am interested in using a de-identified marketing email dataset to understand:
 
-1. How other developers suggested breaking into the field (what education to pursue)?
-2. What factors about an individual contributed to salary?
-3. How bias played a role in the suggestions of developers for how to break into the field?
-4. What was the state of bootcamps for assisting individuals with breaking into developer roles?
-5. How were bootcamps assisting with increasing diversity in tech careers?
-
-The full set of files related to this course are owned by ???, so they are not publicly available here.
+1. How do user and email characteristics relate to email click-through rate (CTR)?
+2. What combination of user and email characteristics does the data suggest to have the best chance of marketing email click-through?
+3. If we were to provide any insights on email campaign personalization for the marketing team, what can we propose based on our analysis?
 
 ## File Descriptions <a name="files"></a>
 
-There are ??? notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
-
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict ???.
+The notebook that showcases the analysis and modeling related to the above questions is 'marketing_personalization.ipynb'. Markdown cells were used to assist in walking through the thought process for individual steps.  
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post [here](https://medium.com/@katdatsci/implementation-of-personalized-strategies-why-it-matters-d3b5a9b20a51).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to ??? for the data.  You can find the Licensing for the data and other descriptive information at the ??? link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Otherwise, feel free to use the code here as you would like! 
+The data files related to this project are owned by a marketing team who provides consultancy for e-commerce companies, so they are not publicly available, but the full analysis script has been made available in this repository. Feel free to use the code here as you would like! 
