@@ -24,7 +24,7 @@ The notebook that showcases the analysis and modeling related to the above quest
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post [here](https://medium.com/@katdatsci/implementation-of-personalized-strategies-why-it-matters-d3b5a9b20a51).
+The main findings of the code can be found at the Medium post [here](https://medium.com/@katdatsci/implementation-of-personalized-strategies-why-it-matters-d3b5a9b20a51).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
